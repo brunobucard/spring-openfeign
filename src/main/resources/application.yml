@@ -1,0 +1,6 @@
+server:
+  port: 8091
+
+feign:
+  url:
+    cep: "https://brasilapi.com.br/api/cep/v2"
